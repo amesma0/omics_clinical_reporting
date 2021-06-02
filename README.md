@@ -2,27 +2,27 @@
 # omics_clinical_reporting
 Clinical_Report_Design_for_omics_integration
 
-#Goal
+# Goal
 
 To develop a tool to facilitate reporting of multiomics data. The tool generates two reports, one is aimed for clinical use and the second aimed for researchers, informing the interpretation of genetic variants pertaining to the gene provided by the user.
 
-#Introduction
+# Introduction
 
 Many multi-omics datasets of different diseases have been generated and the availability of many new analytical tools are now for the first time allowing the combining of all of these resources in several ways in clinical reporting. The identification of biologically meaningful targets using multi-omics data will allow for better stratification, more targeted treatments, and a greater understanding of disease mechanisms.
 
-#Installation 
+# Installation 
 
 Omics-ReportR is available in GitHub https://github.com/collaborativebioinformatics/omics_clinical_reporting 
 
-#Methods
+# Methods
 
-#Implementation 
+# Implementation 
 
-##Inputs
+## Inputs
 
 currently planning to have inputs come from a SQLITE table
 
-##Outputs
+## Outputs
 
 The tool generates two reports, one is aimed for clinical use and the second aimed for researchers, informing the interpretation of genetic variants pertaining to the gene provided by the user.
 
@@ -35,7 +35,7 @@ Omics-ReportR requires a VCF file that includes all the variants that should be 
 #Flow Chart
 
 
-#Results
+# Results
 
 1-EXPERT VIEW
   Gene-level summary in addition to information about associated disease.
