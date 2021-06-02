@@ -16,7 +16,7 @@ Omics-ReportR is available in GitHub https://github.com/collaborativebioinformat
 
 # Methods
 
-# Implementation 
+## Implementation 
 
 ## Inputs
 
@@ -28,7 +28,7 @@ The tool generates two reports, one is aimed for clinical use and the second aim
 
 
 
-#Operation
+# Operation
 
 Omics-ReportR requires a VCF file that includes all the variants that should be genotyped (Flow chart).
 
