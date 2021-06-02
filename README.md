@@ -33,6 +33,8 @@ The tool generates two reports, one is aimed for clinical use and the second aim
 Omics-ReportR requires a VCF file that includes all the variants that should be genotyped (Flow chart).
 
 #Flow Chart
+
+
 <img width="852" alt="Screenshot 2021-06-02 at 13 08 20" src="https://user-images.githubusercontent.com/41301333/120477397-a4637880-c3a3-11eb-9ebd-1ae1a18f11a2.png">
 
 
