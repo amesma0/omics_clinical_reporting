@@ -35,8 +35,6 @@ Omics-ReportR requires a VCF file that includes all the variants that should be 
 #Flow Chart
 
 
-# Results
-
 1-EXPERT VIEW
   Gene-level summary in addition to information about associated disease.
   Links to the gene's page on OMIM, GTEx, gnomAD.
