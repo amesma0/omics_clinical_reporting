@@ -1,3 +1,4 @@
+<img width="1017" alt="Screenshot 2021-06-02 at 02 16 34" src="https://user-images.githubusercontent.com/41301333/120476740-dd4f1d80-c3a2-11eb-9c81-248f56bfb84f.png">
 # omics_clinical_reporting
 Clinical_Report_Design_for_omics_integration
 
